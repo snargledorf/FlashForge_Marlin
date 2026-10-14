@@ -68,11 +68,11 @@
 "G1 Z0 F800\n"\
 "M0 Adjust the screw and press to continue\n"\
 "G1 Z10 F800\n"\
-"G1 X41.3 Y-67 F3000\n"\
+"G1 X57.7 Y-67 F3000\n"\
 "G1 Z0 F800\n"\
 "M0 Adjust the screw and press to continue\n"\
 "G1 Z10 F800\n"\
-"G1 X-6.6 Y60 F3000\n"\
+"G1 X0 Y60 F3000\n"\
 "G1 Z0 F800\n"\
 "M0 Adjust the screw and press to continue\n"\
 "G1 Z10 F800\n"\
